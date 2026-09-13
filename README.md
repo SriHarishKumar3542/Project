@@ -1,6 +1,6 @@
 # Project
 
-# HealthBridge
+# HEALTHBRIDGE
 
 ### Health Scheme Discovery, Eligibility Guidance and Health Camp Awareness
 
